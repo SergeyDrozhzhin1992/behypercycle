@@ -1,0 +1,1 @@
+To work correctly, the program requires the installation of libraries gsl and gnu.
